@@ -1,4 +1,4 @@
-#not from me
+#not by me
 
 import ctypes
 import sys
