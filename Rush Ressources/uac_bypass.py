@@ -1,5 +1,5 @@
 # uac bypassing is a method used to gain admin  (detected by avs)
-#don't even know who made this originally but it isn't mine
+#don't even know who made this originally but it by me
 
 import base64
 import subprocess
