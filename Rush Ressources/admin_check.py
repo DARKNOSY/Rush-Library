@@ -1,4 +1,4 @@
-#not from me blud
+#not by me
 
 import ctypes
 
