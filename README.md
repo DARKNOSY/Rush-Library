@@ -1,4 +1,5 @@
-# Rush-Ressources
+# Rush Library
+
 Public library that contains scripts which could be used to make py malware
 
 ------------------------------------------------------
