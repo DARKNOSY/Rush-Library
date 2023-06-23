@@ -1,7 +1,6 @@
 # not by me
 
 import pyautogui
-import discord
 import os
 
 def screenshot():
